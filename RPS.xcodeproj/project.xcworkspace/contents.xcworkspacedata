@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/mhanlon/Documents/_Consulting/Apple/_TeachingDevelopInSwift/Projects/RPS/RPS/GameState.swift">
+   </FileRef>
+   <FileRef
       location = "self:RPS.xcodeproj">
    </FileRef>
 </Workspace>
